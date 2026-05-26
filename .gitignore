@@ -1,0 +1,6 @@
+# игнорирует readme 
+README.md
+# игнорирует side.txt в директории build
+build/side.txt
+# игнорирует все файлы с расширением doc
+*.doc
